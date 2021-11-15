@@ -47,10 +47,12 @@
     "nodemon": "^1.11.0",
     "password-validator": "^4.0.0",
     "rxjs": "6.6.7",
-    "zone.js": "^0.9.1",
-    "rxjs-compat": "^6.0.0-rc.0"
+    "rxjs-compat": "^6.0.0-rc.0",
+    "tslib": "^1.14.1",
+    "zone.js": "^0.9.1"
   },
   "devDependencies": {
+    "@angular-devkit/build-angular": "~0.803.29",
     "@angular/cli": "^8.3.29",
     "@angular/compiler-cli": "8.2.14",
     "@angular/language-service": "8.2.14",
@@ -69,7 +71,6 @@
     "protractor": "~5.1.2",
     "ts-node": "~3.2.0",
     "tslint": "~5.7.0",
-    "typescript": "3.5.3",
-    "@angular-devkit/build-angular": "~0.803.29"
+    "typescript": "3.5.3"
   }
 }
